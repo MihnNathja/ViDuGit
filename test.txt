@@ -1,6 +1,5 @@
 hellojjiniuhiaegrtfnbgdrwtdgnfgdrafndb
-<<<<<<< HEAD
 Minh Nhật cập nhật
-=======
-MinhMan cap nhat
->>>>>>> 7847fc12ae9121ba02136567a1e1ce2761fa24ef
+MinhMan cap n
+hat
+
